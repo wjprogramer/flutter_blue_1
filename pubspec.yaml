@@ -30,6 +30,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # BSD-3-Clause
+  # Android iOS macOS
+  flutter_blue: ^0.8.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
