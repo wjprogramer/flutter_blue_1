@@ -30,6 +30,12 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # My
+  flutter_common_package:
+    git:
+      url: https://github.com/wjprogramer/flutter_common_package
+      ref: b55deee
+
   # BSD-3-Clause
   # Android iOS macOS
   flutter_blue: ^0.8.0
